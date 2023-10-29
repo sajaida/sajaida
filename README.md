@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sajaida
 - 👩🏽‍💻 Software engineering student
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning Full stack web developer
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me ...
 
